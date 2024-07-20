@@ -1,1 +1,1 @@
-- 👋 Hi, I’m Nirmal Mangalat
+👋 Hi, I’m Nirmal Mangalat
